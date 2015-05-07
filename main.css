@@ -29,6 +29,11 @@
     font-size: 48px;
   }
 
+  .date {
+    font-size: 15px;
+    color: #E5DDDF;
+  }
+
   .sidebar-one .time {
     color: #6cbfee;
   }
@@ -37,10 +42,6 @@
     color: #3594cb;
   }
 
-  .date {
-    font-size: 15px;
-    color: grey;
-  }
 
   .recipe-headings {
     font-size: 28px;
@@ -73,11 +74,27 @@
     display: inline-block;
   /*   background-color: red; */
     margin-top: 50px;
+    vertical-align: top;
   }
 
   .sidebar-one, .sidebar-two {
     height: 335px;
   }
+
+    .sidebar-one img {
+      position: relative;
+      left: 125px;
+      bottom: 5px;
+      top: 20px;
+    }
+
+    .sidebar-two img {
+      position: relative;
+      left: 125px;
+      bottom: 5px;
+      top: 65px;
+    }
+
 
     .main-recipes {
       width: 765px;
