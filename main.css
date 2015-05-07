@@ -26,7 +26,7 @@
   }
 
   .time {
-    font-size: 40px;
+    font-size: 48px;
   }
 
   .sidebar-one .time {
@@ -50,8 +50,12 @@
   }
 
   .main-recipes p {
-      padding-top: 60px;
+      padding-top: 10px;
     }
+
+  .main-recipes h1 {
+    padding-top: 45px;
+  }
 
 
   /*****************************************/
@@ -79,6 +83,10 @@
       width: 765px;
       display: inline-block;
       margin-top: 50px;
+    }
+
+    .recipes-headings {
+      padding-top: 50px;
     }
 
       .ricebean {
@@ -116,4 +124,3 @@
     	  -moz-border-radius: 10px;
     	  border-radius: 10px;
       }
-      
