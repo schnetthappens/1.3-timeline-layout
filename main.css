@@ -1,0 +1,21 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+/* * {
+  box-sizing: border-box;
+  border: 1px solid red;
+} */
+
+/*GENERAL styling, including fonts for body elements*/
+  .container {
+    width: 980px;
+    margin: auto;
+  }
+
+
+.main-recipes {
+  width: 757px;
+}
